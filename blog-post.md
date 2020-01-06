@@ -1,7 +1,7 @@
 # Our first day at Epicodus
 ## Written by Tiffany and Cameron
 
-> Today was our **first** day at the school. Currently learning markdown and putting into practice. 
+> Today was our **first** day at the school. Currently learning markdown and putting it into practice. 
 
 Other things we've learned today:
 * Git Repositories
